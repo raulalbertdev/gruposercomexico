@@ -38,3 +38,9 @@ Este proyecto emplea las siguientes tecnologías y herramientas:
 - **Meta tags SEO**: Optimización para buscadores.
 
 ---
+
+
+### Desarrollador:
+Raúl Alberto Moheno Zavaleta
+Conocido en redes sociales como RaulAlbertDev
+México
